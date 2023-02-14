@@ -12,7 +12,6 @@ Adição (+)
 Subtração (-)
 Multiplicação (*)
 Divisão (/)
-Potência (**)
 
 Contribuição
 Este é um projeto de código aberto e contribuições são bem-vindas. Se você tiver alguma sugestão, correção ou nova funcionalidade para adicionar, sinta-se à vontade para abrir um pull request.
